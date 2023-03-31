@@ -17,9 +17,9 @@ Tous les ont une densité de liens très faible (c'est à dire une très petite 
 
 On remarque aussi que le coefficient de clustering est très faible, ce qui signifie que les réseaux sont très peu connectés. 
  
-- caltech_global_clustering_coefficient =  0.2912826901150874
-- mit_global_clustering_coefficient =  0.18028845093502427
-- johnsHopkins_global_clustering_coefficient =  0.19316123901594015
+- caltech_global_clustering_coefficient =  0.40929439048517247
+- mit_global_clustering_coefficient =  0.2712187419501315
+- johnsHopkins_global_clustering_coefficient =  0.26839307371293525
  
 On peut donc conclure que les réseaux ont une topologie très dispersés et peu connectés.
 
