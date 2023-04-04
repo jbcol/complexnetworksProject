@@ -2,3 +2,5 @@ matplotlib
 numpy
 scipy>=1.8.1
 networkx>=3.0
+progressbar2
+os
